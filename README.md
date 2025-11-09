@@ -3,6 +3,8 @@
 
 The 10Pearls AQI Predictor is a serverless application that forecasts the Air Quality Index (AQI) for Karachi, Pakistan, over the next 72 hours. It combines real-time data ingestion, automated model training, and interactive visualization to deliver continuously updated air quality insights.
 
+![Uploading image.png…]()
+
 ---
 
 ## Overview
@@ -93,4 +95,5 @@ The system runs 100% serverless using GitHub Actions for CI/CD and Docker for co
 - `requirements.txt`: Lists Python dependencies.  
 - `.github/workflows/fetch_features.yaml`: GitHub Actions workflow for hourly feature updates.  
 - `.github/workflows/train_model.yaml`: GitHub Actions workflow for daily model training.
+
 
