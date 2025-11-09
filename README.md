@@ -5,6 +5,8 @@ The 10Pearls AQI Predictor is a serverless application that forecasts the Air Qu
 
 ![image alt](https://github.com/Duaa-Ali/AQI-Prediction-10pearls/blob/3e3b17a9b59dde60f56232fb175ab8dd0ac27892/images/1.png)
 ![image alt](https://github.com/Duaa-Ali/AQI-Prediction-10pearls/blob/0eb66c8d49e19e6238ff7745ce571a16238a5325/images/3.png)
+![image alt](https://github.com/Duaa-Ali/AQI-Prediction-10pearls/blob/5e71b1ded43cf077a746a93cd239f6d791d99c88/images/4.png)
+![image alt](https://github.com/Duaa-Ali/AQI-Prediction-10pearls/blob/5e71b1ded43cf077a746a93cd239f6d791d99c88/images/6.png)
 
 ---
 
@@ -96,6 +98,7 @@ The system runs 100% serverless using GitHub Actions for CI/CD and Docker for co
 - `requirements.txt`: Lists Python dependencies.  
 - `.github/workflows/fetch_features.yaml`: GitHub Actions workflow for hourly feature updates.  
 - `.github/workflows/train_model.yaml`: GitHub Actions workflow for daily model training.
+
 
 
 
